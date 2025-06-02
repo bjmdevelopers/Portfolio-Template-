@@ -92,6 +92,5 @@ This project is licensed under the MIT License.
 
 ---
 
-**Created by InternetMafia007** - Feel free to contribute to this project!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
