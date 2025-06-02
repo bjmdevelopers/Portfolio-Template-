@@ -33,7 +33,7 @@ A sleek, modern portfolio website template built with pure HTML, CSS, and JavaSc
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/InternetMafia007/modern-portfolio-template.git
+   git clone https://github.com/bjmdevelopers/modern-portfolio-template.git
    ```
 
 2. **Open the project**:
