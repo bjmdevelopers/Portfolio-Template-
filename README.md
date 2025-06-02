@@ -1,8 +1,6 @@
 
 # Modern Portfolio Website Template
 
-![Portfolio Screenshot](https://via.placeholder.com/800x500?text=Portfolio+Showcase)
-
 A sleek, modern portfolio website template built with pure HTML, CSS, and JavaScript. Designed to showcase your skills, projects, and professional information in an elegant and responsive layout.
 
 ## Features
