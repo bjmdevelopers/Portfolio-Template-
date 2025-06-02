@@ -1,4 +1,3 @@
-# Modern Portfolio Website Template 
 # Modern Portfolio Website Template  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 A sleek, modern portfolio website template built with pure HTML, CSS, and JavaScript. Designed to showcase your skills, projects, and professional information in an elegant and responsive layout.
